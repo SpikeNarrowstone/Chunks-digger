@@ -1,5 +1,5 @@
-# Chunks-digger
-dig out chunks from text
+# Chunks-digger文本句法词块挖掘
+dig out syntactic chunks from text
 
 To run the codes, you need the Stanford CoreNLP(https://stanfordnlp.github.io/CoreNLP/) and NLTK(WWW.NLTK.ORG) installed.
 
